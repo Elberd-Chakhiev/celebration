@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Gerbera';
+  src: local('Gerbera Light'), local('Gerbera-Light'),
+      url('../fonts/Gerbera-Light.woff2') format('woff2'),
+      url('../fonts/Gerbera-Light.woff') format('woff'),
+      url('../fonts/Gerbera-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gerbera-bold';
+  src: local('Gerbera Bold'), local('Gerbera-Bold'),
+      url('../fonts/Gerbera-Bold.woff2') format('woff2'),
+      url('../fonts/Gerbera-Bold.woff') format('woff'),
+      url('../fonts/Gerbera-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
